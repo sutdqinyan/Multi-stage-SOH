@@ -1,3 +1,1 @@
-# Multi-stage-SOH
-
-This 
+# Multi-stage-SOH model
